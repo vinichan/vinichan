@@ -10,8 +10,8 @@ Bruno Vinicia, adoro por a mão em codigos fontes e desenvolver minhas propias a
 
  <div>
   <a href="https://github.com/Brunovoa">
-  <img height="170px" width="440px" src="https://github-readme-stats.vercel.app/api?username=brunovoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170px" width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunovoa&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150px" width="420px" src="https://github-readme-stats.vercel.app/api?username=brunovoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150px" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunovoa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="right" alt="Nao-Tomori" src="https://steamuserimages-a.akamaihd.net/ugc/863988638213548793/333939FBCCED98F126CD22DA440DD42290FFF756/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
