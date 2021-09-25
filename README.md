@@ -1,5 +1,5 @@
 ### Salve rapaize, Eu sou 
-Bruno Vinicia, adoro por a mão em codigos fontes e desenvolver minhas propias aplicações, seja bem-vindo! 
+Bruno Vinicia, adoro por a mão em codigos fontes e desenvolver minhas propias aplicações, seja bem-vinde! 
 - 🔭 Atualmente, estou trabalhando no projeto MakeApp...
 - 🌱 Atualmente, estou aprendendo HTML e CSS...
 - 👯 Estou procurando colaborar em ...
@@ -38,6 +38,5 @@ Bruno Vinicia, adoro por a mão em codigos fontes e desenvolver minhas propias a
   <a href = "mailto:brunovoa@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-vin%C3%ADcius-de-oliveira-alves-b31822192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/brunovoa/brunovoa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
