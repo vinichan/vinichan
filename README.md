@@ -9,7 +9,7 @@ Adoro por a mão em codigos fontes e desenvolver minhas propias aplicações, se
 - ⚡ Curiosidade: aprendi a programar quando não tinha nada para fazer; e agora eu trabalho com isso...
 
  <div>
-<a href="https://github.com/rafaballerini">
+<a href="https://github.com/lari-ember">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
