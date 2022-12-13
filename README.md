@@ -1,6 +1,6 @@
 ### Salve rapaize, Eu sou a Larissa
 Adoro por a mão em codigos fontes e desenvolver minhas propias aplicações, seja bem-vinde! 
-- 🔭 Atualmente, estou trabalhando no projeto The Last Ephyphany;
+- 🔭 Atualmente, estou trabalhando no projeto The Last Ephiphany;
 - 🌱 Atualmente, estou aprendendo HTML e CSS
 - 👯 Estou procurando colaborar em banco de dados;
 - 🤔 Estou procurando ajuda com desenvolvimento de sites dinamicos...
