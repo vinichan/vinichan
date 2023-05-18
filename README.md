@@ -15,7 +15,7 @@ Adoro por a mão em codigos fontes e desenvolver minhas propias aplicações, se
 </div>
 <div style="display: inline_block"><br>
   <img align="right" alt="Nao-Tomori" src="https://steamuserimages-a.akamaihd.net/ugc/863988638213548793/333939FBCCED98F126CD22DA440DD42290FFF756/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
-  <img align="center" alt="lari-ember-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="lari-ember-Js" height="30" width="41" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <br/>
   <br/>
   <img align="center" alt="vinichan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
